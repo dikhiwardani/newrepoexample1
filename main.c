@@ -10,6 +10,11 @@ void ujangkedu(){
     printf("%d", a);
 }
 
+void Dikhi2(){
+    printf("Dikhi");
+
+}
+
 void Dikhi(){
     printf("Dikhi Ganteng banget");
 }
