@@ -12,6 +12,7 @@ void ujangkedu(){
 
 void Dikhi2(){
     printf("Dikhi");
+    printf("Kamu");
 
 }
 
