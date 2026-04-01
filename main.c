@@ -11,6 +11,7 @@ void Dikhi2(){
 
 void Dikhi(){
     printf("Dikhi Ganteng banget");
+    printf("Kyy");
 }
 
 int main(){
