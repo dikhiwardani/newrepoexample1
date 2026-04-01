@@ -21,6 +21,7 @@ void Dikhi(){
     for (int i = 1; i < 0; i++){
         printf("Kyy");
     }
+    printf("Kyy");
 }
 
 int main(){
