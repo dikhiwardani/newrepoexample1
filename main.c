@@ -18,6 +18,9 @@ void Dikhi2(){
 
 void Dikhi(){
     printf("Dikhi Ganteng banget");
+    for (int i = 1; i < 0; i++){
+        printf("Kyy");
+    }
 }
 
 int main(){
